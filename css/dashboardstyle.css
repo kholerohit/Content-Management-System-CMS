@@ -1,0 +1,58 @@
+body{
+	background-color: #003333;
+}
+.col-sm-10{
+	background-color: white;
+}
+#side_menu {
+	/*color: #9fb1c2;*/
+		/*padding:10px; */
+
+}
+#side_menu a{
+	/*color: #9fb1c2;*/
+		/*padding: 10px; */
+
+}
+#side_menu .active a{
+	color: #fff;
+	background-color: #27AAF1;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 5px; 
+}
+
+#side_menu  a:hover{
+	color: #ffffff;
+	background-color: #1ab394;
+	font-weight: bold;
+	display: block;
+	text-decoration:none;
+}
+.footer{
+	color: white;
+	text-align:center;
+	text-decoration: none;
+	font-weight:bold;
+}
+
+.tht{
+	background-color: darkgreen;
+	color: white; 
+}
+.sidebar-nav{
+	padding-bottom: 10px; 
+	background-color: white;
+}
+.sidebar-brand{
+		color: darkgreen;
+		background-color:white;
+		border-radius: 5px;
+}
+.fieldinform{
+	font-size: 1.3em;
+	font-family: Bitter,Georgia,"Times New Roman",Times,serief;
+	color: purple;
+	font-weight: bold;
+
+}
